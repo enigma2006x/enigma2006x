@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Tony Trejo 👨‍💻
+  Hi there :tada: I'm Tony Trejo :rocket: :white_check_mark: 
 </h1>
 
 <p align='center'>
@@ -25,4 +25,8 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=enigma2006x&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+### :zap: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
