@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: enigma2006x/blog-post-workflow@master
+      - uses: enigma2006x/blog-post-workflow@main
         with:
           feed_list: "https://medium.com/feed/@tonytrejodev"
