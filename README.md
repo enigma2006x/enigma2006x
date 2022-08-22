@@ -24,6 +24,6 @@
 </p>
 
 <p align='center'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enigma2006x&layout=compact)](https://github.com/enigma2006x/github-readme-stats)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigma2006x&layout=compact" width="350"></a>
 </p>
 
