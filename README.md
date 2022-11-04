@@ -24,6 +24,6 @@
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigma2006x&show_icons=true&count_private=true&layout=compact" width="350"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigma2006x&show_icons=true&count_private=true&layout=compact&theme=dark" width="350"></a>
 </p>
 
