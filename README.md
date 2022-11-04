@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile developer (iOS, Android) from México.
+  A mobile developer (iOS, Android, Flutter) from México.
 </p>
 
 
