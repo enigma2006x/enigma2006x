@@ -59,7 +59,11 @@ class TonyTrejo extends Developer {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=enigma2006x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F8D866&fire=F8D866&currStreakLabel=58A6FF" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=enigma2006x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F8D866&fire=F8D866&currStreakLabel=58A6FF" width="420"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enigma2006x&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="740"/>
 </div>
 
 ---
