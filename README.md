@@ -16,6 +16,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniotrejof/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tonytrejodev.medium.com)
+[![Website](https://img.shields.io/badge/tony--trejo.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://tony-trejo.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_antoniotrejo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_i_zW-3S7FWjzJ2tg05hRw)
 
 </div>
 
@@ -54,17 +57,40 @@ class TonyTrejo extends Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enigma2006x&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigma2006x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="310"/>
+
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=enigma2006x&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enigma2006x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=enigma2006x&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F8D866&fire=F8D866&currStreakLabel=58A6FF" width="420"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=enigma2006x&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
+---
+
+## 🌐 tony-trejo.com — Mobile Architecture & Technical Audit
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enigma2006x&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="740"/>
+
+[![Visit Site](https://img.shields.io/badge/tony--trejo.com-Visit_Site-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://tony-trejo.com)
+
 </div>
+
+> **"Mobile architecture designed for production, not demos."**
+
+With **18+ years** building real mobile applications, I offer specialized **technical architecture & audit consulting** for iOS, Android, and Flutter apps already in production.
+
+| Service | Description |
+|---------|-------------|
+| 🔍 Technical Audit | Deep-dive into your app's architecture, scalability & stability |
+| ♻️ Architectural Redesign | Refactor without rewriting — sustainable evolution |
+| 🤖 AI Integration | Responsible AI integration that doesn't break your architecture |
+
+📅 **30-min initial diagnostic · No commitment** → [Request a technical review](https://tony-trejo.com/contactame/)
 
 ---
 
